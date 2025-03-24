@@ -1,0 +1,40 @@
+{
+    "name": "João P Alvarez",
+    "photo": "https://avatars.githubusercontent.com/u/126174739?v=4",
+    "job": "Graduando Sistemas de Informação",
+    "location": "Bauru - SP",
+    "phone": "(14) 99107-6001",
+    "email": "joaopedroalvarezsilva@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        }
+      ],
+      "softSkills": [
+        "Empatia",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês"
+    ],
+    "portfolio": [
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+        "url": "https://github.com/jpalvarezz/PORTFOLIO",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Bacharelado em Sistemas de Informação - UNESP",
+        "period": "2025 - até o momento",
+        "description": "É um prazer estudar em uma das melhores faculdades estaduais do Brasil"
+      }
+    ]
+}
